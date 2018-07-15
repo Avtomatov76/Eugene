@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Style for a tab that displays a category name -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/white</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#A8A19E</item>
+    </style>
+
+    <!-- ImageView style specs -->
+    <style name="ImageView">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">155dp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <!-- Name TextView style specs -->
+    <style name="Name">
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <!-- Address TextView style specs -->
+    <style name="Address">
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:layout_below">@id/name</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:autoLink">phone</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+    <!-- Description TextView style specs -->
+    <style name="Description">
+        <item name="android:layout_below">@id/image</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+</resources>

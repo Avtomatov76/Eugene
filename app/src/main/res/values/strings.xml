@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">Eugene</string>
+
+    <!-- Category names. -->
+    <string name="brews_category">Brews</string>
+    <string name="bites_category">Bites</string>
+    <string name="events_category">Events</string>
+    <string name="sights_category">Sights</string>
+
+    <!-- List of brewery names. -->
+    <string name="ninkasi">Ninkasi Brewing</string>
+    <string name="hop_valley">Hop Valley Brewing</string>
+    <string name="sam_bonds">Sam Bond\'s Brewing</string>
+    <string name="tap_growler">The Tap and Growler</string>
+    <string name="elk_horn">Elk Horn Brewing</string>
+    <string name="coldfire">ColdFire Brewing</string>
+    <string name="oakshire">Oakshire Brewing</string>
+    <string name="claim_52">Claim 52 Brewing</string>
+    <string name="viking">Viking Braggot Company</string>
+    <string name="bier_stein">The Bier Stein</string>
+
+    <!-- List of breweries' phones and addresses. -->
+    <string name="ninkasi_address">(541) 344-2739
+        "\n"272 Van Buren St, Eugene, OR 97402</string>
+    <string name="hop_valley_address">(541) 485-2337
+        "\n"990 W 1st Ave, Eugene, OR 97402</string>
+    <string name="sam_bonds_address">(541) 246-8162
+        "\n"540 E 8th Ave, Eugene, OR 97401</string>
+    <string name="tap_growler_address">(541) 505-9751
+        "\n"207 E 5th Ave, Eugene, OR 97401</string>
+    <string name="elk_horn_address">(541) 505-8356
+        "\n"686 E Broadway, Eugene, OR 97401</string>
+    <string name="coldfire_address">(541) 636-3889
+        "\n"263 Mill St, Eugene, OR 97401</string>
+    <string name="oakshire_address">(541) 654-5520
+        "\n"207 Madison St, Eugene, OR 97402</string>
+    <string name="claim_52_address">(458) 205-8188
+        "\n"1030 Tyinn St, Eugene, OR 97402</string>
+    <string name="viking_address">(541) 653-8371
+        "\n"520 Commercial St Unit F, Eugene, OR 97402</string>
+    <string name="bier_stein_address">(541) 485-2437
+        "\n"1591 Willamette St, Eugene, OR 97401</string>
+
+    <!-- List of breweries' description. -->
+    <string name="ninkasi_description">Brewery focused on local ingredients offering a tasting room,
+        patio seating and regular guided tours.</string>
+    <string name="hop_valley_description">Laid-back brewery and tasting room offering more than 20
+        craft beers on tap, plus an outdoor patio.</string>
+    <string name="sam_bonds_description">Sam Bond\'s Brewing Company is a 10 bbl brewhouse and
+        tasting room within the historic Foundry Building and conveniently located between downtown
+        Eugene and the University of Oregon.</string>
+    <string name="tap_growler_description">Cozy spot with elevated pub fare and beer, wine, cider,
+        craft soda and cold-pressed espresso all on tap.</string>
+    <string name="elk_horn_description">We are a family owned gastropub, brewery, and cider house
+        located in the heart of Eugene campus culture.</string>
+    <string name="coldfire_description">Wide variety of beers on tap along with rotating food carts.
+        In close proximity to downtown Eugene, Skinner Butte and the Ruth Bascom Riverbank Path.</string>
+    <string name="oakshire_description">Roomy, rustic-chic haunt offering house brews on tap, food
+        carts and live music most weekend nights.</string>
+    <string name="claim_52_description">Claim 52 is a community-scale brewery serving our hometown
+        of Eugene and surrounding areas since 2012. </string>
+    <string name="viking_description">Viking Braggot Company is the only brewery to offer a full
+        line of braggots! What are braggots? It is one of the oldest fermented drinks, pioneered
+        by the Vikings that takes elements of beer and fermented honey (or mead).</string>
+    <string name="bier_stein_description">The Bier Stein is a connoisseur beer store located in
+        Eugene, OR. We host over 30 evolving taps, 1,000 different bottles of beer from around the
+        world, and have a menu of excellent sandwiches, soups, and fresh salads.</string>
+
+    <!-- List of restaurant names. -->
+    <string name="waffle">Off The Waffle</string>
+    <string name="dickie_jo">DickieJo\'s Burgers</string>
+    <string name="sabai">Sabai Cafe &amp; Bar</string>
+    <string name="tacovore">Tacovore</string>
+    <string name="makoto">Makoto Japanese Restaurant</string>
+    <string name="brails">Brails Restaurant</string>
+    <string name="cornucopia">Cornucopia Restaurant</string>
+    <string name="marche">Marche</string>
+    <string name="excelsior">Excelsior Inn Ristorante</string>
+    <string name="kungfu">Kung Fu Bistro</string>
+
+    <!-- List of restaurants' phones and addresses. -->
+    <string name="waffle_address">(541) 632-4225
+        "\n"840 Willamette St, Eugene, OR 97401</string>
+    <string name="dickie_jo_address">(541) 743-4106
+        "\n"1079-C Valley River Way, Eugene, OR 97401</string>
+    <string name="sabai_address">(541) 654-5424
+        "\n"27 Oakway Center, Eugene, OR 97401</string>
+    <string name="tacovore_address">(541) 735-3518
+        "\n"530 Blair Blvd, Eugene, OR 97402</string>
+    <string name="makoto_address">(458) 201-7403
+        "\n"1167 Willamette St, Eugene, OR 97401</string>
+    <string name="brails_address">(541) 343-1542
+        "\n"1689 Willamette St, Eugene, OR 97401</string>
+    <string name="cornucopia_address">(541) 485-2300
+        "\n"295 W 17th Ave, Eugene, OR 97401</string>
+    <string name="marche_address">(541) 342-3612
+        "\n"296 E 5th Ave, Eugene, OR 97401</string>
+    <string name="excelsior_address">(541) 342-6963
+        "\n"754 E 13th Ave, Eugene, OR 97401</string>
+    <string name="kungfu_address">(541) 968-9258
+        "\n"2560 Willamette St, Eugene, OR 97405</string>
+
+    <!-- List of restaurants' description. -->
+    <string name="waffle_description">Bustling restaurant specializing in Belgian-style waffles
+        loaded with sweet &amp; savory toppings.</string>
+    <string name="dickie_jo_description">DickieJo’s Burgers is a fast casual restaurant specializing
+        in griddle-pressed burgers, French fries and premium soft serve shakes.</string>
+    <string name="sabai_description">Thai &amp; Pacific Rim standards &amp; specials offered in a modern,
+        sophisticated room plus large patio.</string>
+    <string name="tacovore_description">Trendy counter serve with a patio for tacos &amp; other Mexican
+        bites, plus draft beer &amp; margaritas.</string>
+    <string name="makoto_description">Sushi, ramen &amp; cocktails, plus a few Korean classics, offered
+        in a warm, convivial atmosphere.</string>
+    <string name="brails_description">Brails is an American diner-style restaurant serving breakfast
+        and lunch. Enjoy classic diner fare such as bacon and eggs, burgers, and Reuben sandwiches.</string>
+    <string name="cornucopia_description">Casual American spot serving big burgers &amp; sandwiches in a
+        converted house with a beer garden.</string>
+    <string name="marche_description">Polished bistro with French-inspired &amp; Northwest farm-to-table
+        eats, a wood-fired oven &amp; a full bar.</string>
+    <string name="excelsior_description">Guests at this exceptional restaurant can enjoy authentic
+        Italian cuisine in the casual yet elegant Bistro, or in the formal Dining Room.</string>
+    <string name="kungfu_description">Strip-mall Chinese restaurant serving up Sichuan–style dishes
+        in an intimate setting.</string>
+
+    <!-- List of sights names. -->
+    <string name="hendricks">Hendricks Park</string>
+    <string name="university">University of Oregon</string>
+    <string name="skinners">Skinner Butte</string>
+    <string name="market">5th Street Public Market</string>
+    <string name="autzen">Autzen Stadium</string>
+    <string name="hult">Hult Center for the Performing Arts</string>
+    <string name="garden">Owen Rose Garden</string>
+    <string name="alton">Alton Baker Park</string>
+    <string name="mansion">Shelton McMurphey Johnson House</string>
+    <string name="museum">Oregon Air and Space Museum</string>
+
+    <!-- List of sights' phones and addresses. -->
+    <string name="hendricks_address">(541) 682-4800
+        "\n"Summit Ave &amp; Skyline Blvd, Eugene, OR 97403</string>
+    <string name="university_address">(541) 346-1000
+        "\n"1585 E 13th Ave, Eugene, OR 97403</string>
+    <string name="skinners_address">(541) 682-4800
+        "\n"248 Cheshire Ave, Eugene, OR 97401</string>
+    <string name="market_address">(541) 484-0383
+        "\n"296 E 5th Ave #300, Eugene, OR 97401</string>
+    <string name="autzen_address">(541) 346-4461
+        "\n"2700 Martin Luther King Jr Blvd, Eugene, OR 97401</string>
+    <string name="hult_address">(541) 682-5000
+        "\n"1 Eugene Center, Eugene, OR 97401</string>
+    <string name="garden_address">(541) 682-4800
+        "\n"300 N Jefferson St, Eugene, OR 97402</string>
+    <string name="alton_address">(541) 682-4800
+        "\n"100 Day Island Rd, Eugene, OR 97401</string>
+    <string name="mansion_address">(541) 484-0808
+        "\n"303 Willamette St, Eugene, OR 97401</string>
+    <string name="museum_address">(541) 461-1101
+        "\n"90377 Boeing Dr, Eugene, OR 97402</string>
+
+    <!-- List of sights' description. -->
+    <string name="hendricks_description">Hendricks Park is the oldest city park in Eugene, Oregon,
+        United States. The 78-acre park is a little over a mile away from the University of Oregon
+        campus, and contains mature forest, a 12-acre rhododendron garden, and a native plant garden.</string>
+    <string name="university_description">The University of Oregon is a public flagship research
+        university in Eugene, Oregon. Founded in 1876, the institution\'s 295-acre campus is along
+        the Willamette River.</string>
+    <string name="skinners_description">Skinner Butte is a prominent hill on the north edge of
+        downtown Eugene, Oregon, United States, near the Willamette River. Skinner Butte is a local
+        landmark and the location of Skinner Butte Park, a municipal park.</string>
+    <string name="market_description">The area\'s premier shopping destination. Enjoy a collection
+        of unique and enchanting stores, restaurants and eateries adjacent to an upscale boutique
+        hotel. Stroll through the courtyard. Listen to the splashing sounds of the fountain. Sip on
+        local wines. Connect with friends.</string>
+    <string name="autzen_description">Autzen Stadium is an outdoor football stadium in the northwest
+        United States, in Eugene, Oregon. Located north of the University of Oregon campus, it is
+        the home field of the Oregon Ducks of the Pac-12 Conference.</string>
+    <string name="hult_description">The Hult Center for the Performing Arts is a performing arts
+        venue in Eugene, Oregon.</string>
+    <string name="garden_description">Pretty park with floral displays, picnic areas, biking &amp;
+        pedestrian paths &amp; a performance space.</string>
+    <string name="alton_description">Alton Baker Park is located in Eugene, Oregon, United States,
+        near Autzen Stadium. It was named for Register-Guard founder Alton F. Baker, Sr.</string>
+    <string name="mansion_description">The Shelton McMurphey Johnson House, or Castle on the Hill,
+        in Eugene, Oregon, United States, is a Victorian-era residence that is listed on the
+        National Register of Historical Places.</string>
+    <string name="museum_description">The Oregon Air and Space Museum, located on the grounds of the
+        Eugene Airport in Eugene, Oregon, holds a collection of historic aircraft and spacecraft.</string>
+
+    <!-- List of events names. -->
+    <string name="sat_market">Eugene Saturday Market</string>
+    <string name="scandi_fest">Scandinavian Festival</string>
+    <string name="whiteaker">Whiteaker Block Party</string>
+    <string name="food_truck">Food Truck Fest</string>
+    <string name="rodeo">Eugene Pro Rodeo</string>
+    <string name="country_fair">Oregon Country Fair</string>
+    <string name="bach_fest">Oregon Bach Festival</string>
+
+    <!-- List of events' phones and addresses. -->
+    <string name="sat_market_address">(541) 686-8885
+        "\n"126 E 8th Ave, Eugene, OR 97401</string>
+    <string name="scandi_fest_address">(541) 998-9372
+        "\n"Junction City, OR 97448</string>
+    <string name="whiteaker_address">(866) 451-6332
+        "\n"3rd Ave &amp; Jackson, Eugene, OR</string>
+    <string name="food_truck_address">(541)344-3251
+        "\n"796 W 13th Ave, Eugene, OR</string>
+    <string name="rodeo_address">(541) 689-9700
+        "\n"90751 Prairie Rd, Eugene, OR 97402</string>
+    <string name="country_fair_address">(541) 343-4298
+        "\n"24207 OR-126, Veneta, OR 97487</string>
+    <string name="bach_fest_address">(541) 346-5666
+        "\n"975 E. 18th Avenue, Eugene, OR, 97403</string>
+
+    <!-- List of events' description. -->
+    <string name="sat_market_description">This weekly market in a park features wares by 200+ local
+        artisans, plus food vendors &amp; live music.</string>
+    <string name="scandi_fest_description">Celebrate local Scandinavian heritage with food, crafts
+        and entertainment at Junction City\'s 58th Scandinavian Festival.</string>
+    <string name="whiteaker_description">The Whiteaker Block Party held in August of each year is
+        just one of Eugene’s outlandish and entertaining summertime festivities.</string>
+    <string name="food_truck_description">Have you driven by a food truck and wished there were a
+        place where you could try all of Eugene’s food trucks? Well the Annual Food Truck Fest is
+        your place.</string>
+    <string name="rodeo_description">Watch cowboys and cowgirls compete in Roughstock, bareback
+        riding, Saddle Bronc Riding, bull riding, barrel racing, steer wrestling and roping events.
+        There will be rodeo clowns, kids games and more carnival food than you could ever eat!</string>
+    <string name="country_fair_description">The Oregon Country Fair is a nonprofit organization, and
+        an annual three-day fair held outside the city limits of Veneta, Oregon, United States.</string>
+    <string name="bach_fest_description">Oregon Bach Festival  has presented the masterworks of J.S.
+        Bach, and composers inspired by his work, to audiences in Eugene and throughout the State of
+        Oregon for nearly five decades. </string>
+</resources>
